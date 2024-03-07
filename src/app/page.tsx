@@ -143,3 +143,7 @@ export default function Home() {
     </>
   );
 }
+
+
+// https://www.youtube.com/watch?v=ucX2zXAZ1I0
+// 1:12:17
